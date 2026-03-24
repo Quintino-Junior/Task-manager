@@ -1,0 +1,41 @@
+[
+    {
+        "task": "Test task",
+        "priority": "High"
+    },
+    {
+        "task": "Fazer compras",
+        "priority": "High",
+        "status": "Ongoing"
+    },
+    {
+        "task": "Comprar leite",
+        "priority": "High",
+        "status": "Done"
+    },
+    {
+        "task": "Assistir a aula de alura",
+        "priority": "High",
+        "status": "Todo"
+    },
+    {
+        "task": "Tomar banho",
+        "priority": "Low",
+        "status": "Done"
+    },
+    {
+        "task": "Relaxar",
+        "priority": "Medium",
+        "status": "Todo"
+    },
+    {
+        "task": "Procurar trabalho",
+        "priority": "High",
+        "status": "Todo"
+    },
+    {
+        "task": "Lavar pratos",
+        "priority": "Medium",
+        "status": "Ongoing"
+    }
+]
